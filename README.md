@@ -62,7 +62,7 @@ Macro: gives equal importance to each class or label but that doesn’t’ mean 
 Micro: calculate metric globally by calculating tp, fn, fp.
 
 5.micro-Precision, micro-Recall, F1-micro (harmonic mean of micro-pre., and micro recall)
-primary metric used is f1-micro.
+primary metric used is hamming loss.
 
 ## Best Ml Model
 ![best ml](https://user-images.githubusercontent.com/61196335/131012569-080d682f-47e0-4bc0-a936-b82f3de1aa5a.JPG)
